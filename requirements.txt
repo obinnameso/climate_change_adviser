@@ -5,6 +5,7 @@ langchain-pinecone
 langchain-openai
 python-dotenv
 pypdf
+langchain-huggingface
 langchain_community
 langchain_mistralai
 faiss-cpu
